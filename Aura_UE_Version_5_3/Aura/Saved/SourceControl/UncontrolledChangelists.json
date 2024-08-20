@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Character/Aura/BP_Aura_Character.uasset",
+				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Assets/Characters/Aura/SK_Aura.uasset",
+				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Maps/StartupMap.umap",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_HealthCrystal.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_ManaCrystal.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project 5_2_0/Aura/Content/Assets/UI/Pickups/T_Potion_Blue.uasset",
