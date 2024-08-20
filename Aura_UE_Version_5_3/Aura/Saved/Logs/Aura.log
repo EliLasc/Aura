@@ -1122,3 +1122,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.20-01.56.30:256][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.08.20-01.56.30:360][  2]LogAssetRegistry: AssetRegistryGather time 0.4061s: AssetDataDiscovery 0.1299s, AssetDataGather 0.1316s, StoreResults 0.1446s.
 [2024.08.20-01.56.30:493][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000449 seconds (updated 0 objects)
+[2024.08.20-01.57.27:758][203]LogSlate: Took 0.005480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.20-01.57.27:776][203]LogSlate: Took 0.000564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.20-01.57.34:735][365]LogSlate: Took 0.006243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.20-01.57.44:060][675]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.08.20-01.57.44:291][675]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.08.20-01.58.02:034][729]LogDerivedDataCache: C:/Users/joela/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.277 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 759 files in 1337 folders with total size 63 MiB.
+[2024.08.20-01.58.02:909][731]LogLiveCoding: Display:    Creating library C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Binaries\Win64\UnrealEditor-Aura-Win64-DebugGame.patch_0.lib and object C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Binaries\Win64\UnrealEditor-Aura-Win64-DebugGame.patch_0.exp
+[2024.08.20-01.58.03:982][735]LogClass: UPackage /Script/Aura Reload.
+[2024.08.20-01.58.03:983][735]LogClass: Could not find existing class AuraCharacter in package /Script/Aura for reload, assuming new or modified class
+[2024.08.20-01.58.04:058][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.08.20-01.58.04:296][736]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.08.20-01.58.04:296][736]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.08.20-01.58.21:625][357]LogLiveCoding: Display: Console will be hidden but remain running in the background. Restart to disable completely.
+[2024.08.20-01.58.44:538][313]LogSlate: Window 'Message' being destroyed
+[2024.08.20-01.58.44:545][313]Message dialog closed, result: No, title: Message, text: Successfully added class 'AuraEnemy', however you must recompile the 'Aura' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2024.08.20-01.58.44:546][313]LogSlate: Window 'Add C++ Class' being destroyed
