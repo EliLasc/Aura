@@ -1461,3 +1461,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.22-21.26.14:555][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.08.22-21.26.14:558][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2024.08.22-21.26.14:599][538]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.08.22-21.28.49:402][168]LogSlate: Window 'Message' being destroyed
+[2024.08.22-21.28.49:407][168]Message dialog closed, result: No, title: Message, text: Successfully added class 'EnemyInteraction', however you must recompile the 'Aura' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2024.08.22-21.28.49:407][168]LogSlate: Window 'Add C++ Class' being destroyed
