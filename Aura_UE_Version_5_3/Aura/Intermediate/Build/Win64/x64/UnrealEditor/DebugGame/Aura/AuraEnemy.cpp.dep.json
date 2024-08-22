@@ -19,7 +19,8 @@
             "c:\\elijah\\gasproject\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auracharacterbase.generated.h",
             "c:\\elijah\\gasproject\\aura\\aura_ue_version_5_3\\aura\\source\\aura\\public\\interaction\\enemyinterface.h",
             "c:\\elijah\\gasproject\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\enemyinterface.generated.h",
-            "c:\\elijah\\gasproject\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auraenemy.generated.h"
+            "c:\\elijah\\gasproject\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auraenemy.generated.h",
+            "c:\\elijah\\gasproject\\aura\\aura_ue_version_5_3\\aura\\source\\aura\\aura.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

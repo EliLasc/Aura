@@ -30,8 +30,6 @@ public: \
 
 
 #define FID_Elijah_GASProject_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_Character_AuraEnemy_h_16_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AAuraEnemy(); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AAuraEnemy(AAuraEnemy&&); \
