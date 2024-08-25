@@ -64,7 +64,7 @@ void EmptyLinkFunctionForGeneratedCodeAuraEnemy() {}
 	{
 		((AAuraEnemy*)Obj)->bHighlighted = 1;
 	}
-	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted = { "bHighlighted", nullptr, (EPropertyFlags)0x0010000000000014, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(AAuraEnemy), &Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted_MetaData), Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted_MetaData) };
+	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted = { "bHighlighted", nullptr, (EPropertyFlags)0x0020080000000014, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(AAuraEnemy), &Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted_MetaData), Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AAuraEnemy_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AAuraEnemy_Statics::NewProp_bHighlighted,
 	};
@@ -110,9 +110,9 @@ void EmptyLinkFunctionForGeneratedCodeAuraEnemy() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Elijah_GASProject_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_Character_AuraEnemy_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AAuraEnemy, AAuraEnemy::StaticClass, TEXT("AAuraEnemy"), &Z_Registration_Info_UClass_AAuraEnemy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAuraEnemy), 1435734956U) },
+		{ Z_Construct_UClass_AAuraEnemy, AAuraEnemy::StaticClass, TEXT("AAuraEnemy"), &Z_Registration_Info_UClass_AAuraEnemy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAuraEnemy), 1467611516U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Elijah_GASProject_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_Character_AuraEnemy_h_3876206199(TEXT("/Script/Aura"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Elijah_GASProject_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_Character_AuraEnemy_h_1082626832(TEXT("/Script/Aura"),
 		Z_CompiledInDeferFile_FID_Elijah_GASProject_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_Character_AuraEnemy_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Elijah_GASProject_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_Character_AuraEnemy_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
