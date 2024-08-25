@@ -1,10 +1,12 @@
-C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\AbilitySystem\AuraAbilitySystemComponent.h
 C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\AbilitySystem\AuraAttributeSet.h
-C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Character\AuraCharacter.h
+C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\AbilitySystem\AuraAbilitySystemComponent.h
+C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Actor\AuraEffectActor.h
 C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Character\AuraEnemy.h
-C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Game\AuraGameModeBase.h
-C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Interaction\EnemyInterface.h
 C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Character\AuraCharacterBase.h
 C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Player\AuraPlayerController.h
+C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Interaction\EnemyInterface.h
+C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Game\AuraGameModeBase.h
 C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Player\AuraPlayerState.h
-C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Actor\AuraEffectActor.h
+C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\Character\AuraCharacter.h
+C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\UI\Widget\AuraUserWidget.h
+C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Public\UI\WidgetController\AuraWidgetController.h
