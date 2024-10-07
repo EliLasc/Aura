@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auragamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\x64\\auraeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aura\\definitions.aura.h",
+            "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\source\\aura\\public\\game\\auragamemodebase.h",
+            "h:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "h:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "h:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "h:\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auragamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
