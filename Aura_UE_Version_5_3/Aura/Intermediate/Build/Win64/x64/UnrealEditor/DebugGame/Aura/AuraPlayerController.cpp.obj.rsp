@@ -1,11 +1,11 @@
-"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Private\Player\AuraPlayerController.cpp"
-/FI"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Definitions.Aura.h"
-/Yu"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\AuraPlayerController.cpp.obj"
-/sourceDependencies "C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\AuraPlayerController.cpp.dep.json"
-@"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Aura.Shared.rsp"
+"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Source\Aura\Private\Player\AuraPlayerController.cpp"
+/FI"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h"
+/FI"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Definitions.Aura.h"
+/Yu"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h"
+/Fp"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\AuraPlayerController.cpp.obj"
+/sourceDependencies "H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\AuraPlayerController.cpp.dep.json"
+@"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Aura.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

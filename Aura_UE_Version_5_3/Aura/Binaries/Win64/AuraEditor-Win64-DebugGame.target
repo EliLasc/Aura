@@ -22,24 +22,48 @@
 	},
 	"BuildProducts": [
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Aura-Win64-DebugGame.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Aura-Win64-DebugGame.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Win64-DebugGame.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.pdb",
 			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidDeviceDetection.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidDeviceDetection.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidPlatformEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidPlatformEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidRuntimeSettings.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidRuntimeSettings.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidTargetPlatform.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidTargetPlatform.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/OpenColorIO_2_2.dll",
@@ -2898,11 +2922,27 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatASTC.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatASTC.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatDXT.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatDXT.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatETC2.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatETC2.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -6268,13 +6308,21 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Aura-Win64-DebugGame.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Aura-Win64-DebugGame.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-Win64-DebugGame.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
-		{
-			"Path": "$(ProjectDir)/Aura.uproject",
-			"Type": "UFS"
-		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
 			"Type": "NonUFS"
@@ -27565,6 +27613,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Aura.uproject",
 			"Type": "UFS"
 		}
 	],

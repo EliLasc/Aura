@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes.uasset",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Assets/Characters/Aura/SK_Aura.uasset",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Maps/StartupMap.umap",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Character/Enemy/Goblin_Spear/BP_Goblin_Spear.uasset",
