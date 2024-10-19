@@ -15,6 +15,8 @@
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgetController.uasset",
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset",
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/UI/Overlay/SubWidget/WBP_EffectMessage.uasset",
+				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset",
+				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Assets/Characters/Aura/SK_Aura.uasset",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Maps/StartupMap.umap",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Character/Enemy/Goblin_Spear/BP_Goblin_Spear.uasset",
