@@ -23,6 +23,8 @@
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Player/BP_AuraPlayerState.uasset",
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset",
+				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Actor/TestActor/BP_TestActor.uasset",
+				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Actor/TestActor/GE_TestAttributeBased.uasset",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Assets/Characters/Aura/SK_Aura.uasset",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Maps/StartupMap.umap",
 				"C:/Elijah/GASProject/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Character/Enemy/Goblin_Spear/BP_Goblin_Spear.uasset",
