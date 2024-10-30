@@ -28,14 +28,22 @@ template<> AURA_API UScriptStruct* StaticStruct<struct FEffectProperties>();
 #define FID_NewAura_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_AbilitySystem_AuraAttributeSet_h_55_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
 #define FID_NewAura_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_AbilitySystem_AuraAttributeSet_h_55_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execOnRep_MaxMana); \
+	DECLARE_FUNCTION(execOnRep_MaxHealth); \
+	DECLARE_FUNCTION(execOnRep_ManaRegeneration); \
+	DECLARE_FUNCTION(execOnRep_HealthRegeneration); \
+	DECLARE_FUNCTION(execOnRep_CriticalHitResistance); \
+	DECLARE_FUNCTION(execOnRep_CriticalHitDamage); \
+	DECLARE_FUNCTION(execOnRep_CriticalHitChance); \
+	DECLARE_FUNCTION(execOnRep_BlockChance); \
+	DECLARE_FUNCTION(execOnRep_ArmorPenetration); \
+	DECLARE_FUNCTION(execOnRep_Armor); \
 	DECLARE_FUNCTION(execOnRep_Vigor); \
 	DECLARE_FUNCTION(execOnRep_Resilience); \
 	DECLARE_FUNCTION(execOnRep_Intelligence); \
 	DECLARE_FUNCTION(execOnRep_Strength); \
-	DECLARE_FUNCTION(execOnRep_MaxMana); \
-	DECLARE_FUNCTION(execOnRep_Mana); \
-	DECLARE_FUNCTION(execOnRep_MaxHealth); \
-	DECLARE_FUNCTION(execOnRep_Health);
+	DECLARE_FUNCTION(execOnRep_Health); \
+	DECLARE_FUNCTION(execOnRep_Mana);
 
 
 #define FID_NewAura_Aura_Aura_UE_Version_5_3_Aura_Source_Aura_Public_AbilitySystem_AuraAttributeSet_h_55_ACCESSORS
@@ -54,8 +62,16 @@ public: \
 		Resilience, \
 		Vigor, \
 		Health, \
-		MaxHealth, \
 		Mana, \
+		Armor, \
+		ArmorPenetration, \
+		BlockChance, \
+		CriticalHitChance, \
+		CriticalHitDamage, \
+		CriticalHitResistance, \
+		HealthRegeneration, \
+		ManaRegeneration, \
+		MaxHealth, \
 		MaxMana, \
 		NETFIELD_REP_END=MaxMana	}; \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override; \
