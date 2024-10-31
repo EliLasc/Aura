@@ -68,7 +68,9 @@
             "h:\\epic games\\ue_5.3\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\abilitysystemcomponent.generated.h",
             "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auraabilitysystemcomponent.generated.h",
             "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\source\\aura\\public\\abilitysystem\\auraattributeset.h",
-            "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auraattributeset.generated.h"
+            "h:\\newaura\\aura\\aura_ue_version_5_3\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auraattributeset.generated.h",
+            "h:\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "h:\\epic games\\ue_5.3\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
