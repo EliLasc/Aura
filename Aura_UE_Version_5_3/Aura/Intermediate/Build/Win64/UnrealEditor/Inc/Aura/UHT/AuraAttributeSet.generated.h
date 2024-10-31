@@ -57,12 +57,12 @@ public: \
 	enum class ENetFields_Private : uint16 \
 	{ \
 		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
-		Strength=NETFIELD_REP_START, \
+		Health=NETFIELD_REP_START, \
+		Mana, \
+		Strength, \
 		Intelligence, \
 		Resilience, \
 		Vigor, \
-		Health, \
-		Mana, \
 		Armor, \
 		ArmorPenetration, \
 		BlockChance, \
