@@ -1,4 +1,4 @@
-"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.cpp"
+"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.cpp"
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "Runtime\CoreUObject\Public"
@@ -13,10 +13,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/Yc"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h"
-/Fp"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.pch"
-/Fo"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.obj"
-/sourceDependencies "H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.dep.json"
+/Yc"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h"
+/Fp"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.pch"
+/Fo"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.obj"
+/sourceDependencies "C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\CoreUObject\SharedPCH.CoreUObject.RTTI.Cpp20.h.dep.json"
 /Zc:inline
 /nologo
 /Oi

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"H:\\NewAura\\Aura\\Aura_UE_Version_5_3\\Aura\\Source\\Aura\\Aura.Build.cs",
-		"H:\\NewAura\\Aura\\Aura_UE_Version_5_3\\Aura\\Source\\Aura.Target.cs",
-		"H:\\NewAura\\Aura\\Aura_UE_Version_5_3\\Aura\\Source\\AuraEditor.Target.cs"
+		"C:\\Elijah\\GASProject\\Aura\\Aura_UE_Version_5_3\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"C:\\Elijah\\GASProject\\Aura\\Aura_UE_Version_5_3\\Aura\\Source\\Aura.Target.cs",
+		"C:\\Elijah\\GASProject\\Aura\\Aura_UE_Version_5_3\\Aura\\Source\\AuraEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
