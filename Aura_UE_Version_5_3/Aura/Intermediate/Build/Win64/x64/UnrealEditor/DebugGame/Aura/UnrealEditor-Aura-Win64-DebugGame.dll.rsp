@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h.obj"
-"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Module.Aura.cpp.obj"
-"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Default.rc2.res"
+"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\AuraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.InclOrderUnreal5_0.h.obj"
+"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Module.Aura.cpp.obj"
+"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTags\UnrealEditor-GameplayTags.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTasks\UnrealEditor-GameplayTasks.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -71,7 +71,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Binaries\Win64\UnrealEditor-Aura-Win64-DebugGame.dll"
-/IMPLIB:"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\UnrealEditor-Aura-Win64-DebugGame.sup.lib"
-/PDB:"C:\Elijah\GASProject\Aura\Aura_UE_Version_5_3\Aura\Binaries\Win64\UnrealEditor-Aura-Win64-DebugGame.pdb"
+/OUT:"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Binaries\Win64\UnrealEditor-Aura-Win64-DebugGame.dll"
+/IMPLIB:"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Aura\UnrealEditor-Aura-Win64-DebugGame.sup.lib"
+/PDB:"H:\NewAura\Aura\Aura_UE_Version_5_3\Aura\Binaries\Win64\UnrealEditor-Aura-Win64-DebugGame.pdb"
 /ignore:4078
