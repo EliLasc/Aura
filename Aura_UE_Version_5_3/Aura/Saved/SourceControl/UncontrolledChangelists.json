@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GasProject/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/UI/AttributeMenu/WBP_TextValueButtonRow.uasset",
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes.uasset",
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Maps/StartupMap.umap",
 				"H:/NewAura/Aura/Aura_UE_Version_5_3/Aura/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset",
